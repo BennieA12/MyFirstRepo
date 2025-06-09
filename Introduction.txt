@@ -1,0 +1,5 @@
+Brief Introduction About Myself
+
+Hello! My name is Bennistar Cobbah. I am currently exploring GitHub and learning how to use version control systems effectively. I have a passion for learning new technologies and improving my software development skills.
+
+This repository marks the beginning of my journey into collaborative coding and project management using Git.
