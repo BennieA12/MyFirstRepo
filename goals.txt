@@ -1,7 +1,0 @@
-My Personal and Academic Goals for Next Year
-
-- Learn to use Git and GitHub effectively
-- Improve my programming skills in Python
-- Complete my academic coursework with distinction
-- Build and contribute to open-source projects
-- Start writing technical blog posts
